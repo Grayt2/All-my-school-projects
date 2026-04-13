@@ -30,3 +30,6 @@ def littledevil(bet_per_run, number_of_rolls, cash):
     q_y_1_l = q_y_1.split(",")
     littledevil(int(q_y_1_l[0]), int(q_y_1_l[1]), cash)
 littledevil(10, 20, cash)
+"""
+wrote this in like 20 minutes, so it's kinda bad, but it works
+"""
